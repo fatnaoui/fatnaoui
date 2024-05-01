@@ -8,6 +8,7 @@
     <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
+  <img src="https://komarev.com/ghpvc/?username=fatnaoui&style=flat-square&color=blue" alt=""/>
 </div>
 
 
