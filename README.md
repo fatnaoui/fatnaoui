@@ -52,10 +52,7 @@ I am a Coder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gi
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postman/postman-original.svg" title="Postman" **alt="Postman" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/powershell/powershell-original.svg" title="Powershell" **alt="Powershell" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vscode/vscode-original.svg" title="vscode" **alt="vscode" width="40" height="40"/>
+---
 
-
-Hi! I'm Hamza Fatnaoui, a developer.
-
-I'm passionate about coding and learning new things every day. Sharing knowledge and collaborating with others is what motivates me. I use GitHub to share my code, contribute to open-source projects, and connect with the developer community.
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,python)](https://skillicons.dev)
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=fatnaoui
