@@ -55,4 +55,4 @@ I am a Coder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gi
 ---
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=fatnaoui
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fatnaoui&theme=dark&background=000000)](https://git.io/streak-stats)
