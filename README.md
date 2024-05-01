@@ -17,6 +17,14 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmsyZWkyanZocjlrdGZubzhqYjQ4cG8xYzF0ajc0NGl2NzZlbzV6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3KwliaH4MLtli8z7D/giphy.gif" width="600" height="300"/>
 </div>
+---
+
+### :woman_technologist: About Me :
+
+
+
+
+
 
 
 Hi! I'm Hamza Fatnaoui, a developer.
