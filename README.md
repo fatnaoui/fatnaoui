@@ -21,8 +21,8 @@
 
 ### :man_technologist: About Me :
 I am a Coder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Morocco.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- :seedling: Exploring Technical Content Writing.
+- :telescope: I'm a Software Engineer with expertise in both frontend and backend development for building web applications.
+- :seedling: AI, Machine Learning, and Data Science Nerd.
 - :zap: In my free time, I solve problems on Leetcode and read tech articles.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-fatnaoui-blue?style=flat&logo=Linkedin&logoColor=white)]((https://www.linkedin.com/in/fatnaoui/))
 
