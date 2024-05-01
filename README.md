@@ -44,6 +44,24 @@ I am a Coder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gi
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/jupyter/jupyter-original.svg" title="Jupyter" **alt="Jupyter" width="40" height="40"/>
+</div>
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/kaggle/kaggle-original.svg" title="Kaggle" **alt="Kaggle" width="40" height="40"/>
+</div>
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linux/linux-plain.svg" title="Linux" **alt="Linux" width="40" height="40"/>
+</div>
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/numpy/numpy-line.svg" title="Numpy" **alt="Numpy" width="40" height="40"/>
+</div>
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/opencv/opencv-original.svg" title="OpenCV" **alt="OpenCV" width="40" height="40"/>
+</div>
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/pandas/pandas-line.svg" title="Pandas" **alt="Pandas" width="40" height="40"/>
+</div>
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postman/postman-original.svg" title="Postman" **alt="Postman" width="40" height="40"/>
+</div>
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/powershell/powershell-original.svg" title="Powershell" **alt="Powershell" width="40" height="40"/>
+</div>
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vscode/vscode-original.svg" title="vscode" **alt="vscode" width="40" height="40"/>
+</div>
 
 
 Hi! I'm Hamza Fatnaoui, a developer.
